@@ -1,6 +1,9 @@
 body {
     font-family: 'Inconsolata', monospace;
     font-size: 25px;
+    margin-right: 100px;
+    padding: 0;
+    box-sizing: border-box;
 
 }
 
@@ -23,6 +26,10 @@ h1 {
     margin-left: 37px;
 }
 
+h4 {
+    margin-left: 37px;
+}
+
 h3 {
     border-bottom: 3px black dashed;
     font-weight: 500;
@@ -38,7 +45,7 @@ ul {
 
 .end-char {
     position: absolute;
-    right: 50%;
+    right: 5%;
 }
 
 img {
