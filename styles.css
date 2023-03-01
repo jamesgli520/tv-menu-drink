@@ -1,16 +1,15 @@
 body {
     font-family: 'Inconsolata', monospace;
     font-size: 25px;
-    margin-right: 100px;
-    padding: 0;
-    box-sizing: border-box;
+    margin: -175px 0 0 750px;
+    transform: rotate(90deg);
+    width: 50%;
 
 }
 
 .div-container {
     display: flex;
     flex-direction: column;
-    width: 100%;
 }
 
 .font-weight-400 {
@@ -22,7 +21,7 @@ body {
 }
 
 h1 {
-    border-bottom: 3px black dashed;
+    border-bottom: 3px black solid;
     margin-left: 37px;
 }
 
@@ -41,14 +40,28 @@ h3 {
 
 ul {
     list-style-type: none;
+    margin-top: -20px;
+}
+
+li {
+    
+    word-spacing: 10px;
 }
 
 .end-char {
-    position: absolute;
-    right: 5%;
+    position:absolute;
+    right: 25%;
 }
 
-img {
-    width: 1000px;
-    height: 500px;
+.end-char2 {
+    position:absolute;
+    right: 25%;
+}
+
+.brownsugar-div-container {
+    display: flex;
+}
+
+.img-div{
+    margin-left: -10px;
 }
