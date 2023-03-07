@@ -1,9 +1,10 @@
+
 body {
     font-family: 'Inconsolata', monospace;
-    font-size: 25px;
+    font-size: 15px;
     margin: 0 0 0 950px;
     transform: rotate(90deg);
-    width: 50%;
+    width: 25%;
     height: 100%;
 
 }
@@ -36,7 +37,7 @@ h3 {
 }
 
 .margin-top {
-    margin-top: -25px;
+    margin-top: -15px;
 }
 
 ul {
