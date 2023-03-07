@@ -1,10 +1,10 @@
 
 body {
     font-family: 'Inconsolata', monospace;
-    font-size: 15px;
-    margin: -250 0 0 600px;
+    font-size: 10px;
+    margin: -150 0 0 600px;
     transform: rotate(90deg);
-    width: 25%;
+    width: 50%;
     height: 100%;
 
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .font-size-10px {
-    font-size: 15px;
+    font-size: 10px;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h1 {
 }
 
 h4 {
-    margin-left: 37px;
+    margin-left: 10px;
 }
 
 h3 {
@@ -37,12 +37,12 @@ h3 {
 }
 
 .margin-top {
-    margin-top: -15px;
+    margin-top: -10px;
 }
 
 ul {
     list-style-type: none;
-    margin-top: -20px;
+    margin-top: -10px;
 }
 
 li {
