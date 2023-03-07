@@ -2,7 +2,7 @@
 body {
     font-family: 'Inconsolata', monospace;
     font-size: 15px;
-    margin: 0 0 0 950px;
+    margin: -250 0 0 600px;
     transform: rotate(90deg);
     width: 25%;
     height: 100%;
@@ -11,7 +11,7 @@ body {
 
 .div-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .font-weight-400 {
@@ -65,5 +65,5 @@ li {
 }
 
 .img-div{
-    margin-left: 10px;
+    margin-left: -10px;
 }
