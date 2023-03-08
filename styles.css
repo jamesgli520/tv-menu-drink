@@ -2,16 +2,15 @@
 body {
     font-family: 'Inconsolata', monospace;
     font-size: 10px;
-    margin: -150 0 0 600px;
-    transform: rotate(90deg);
-    width: 50%;
-    height: 100%;
-
+    margin: 0 0 0 600px;
+    transform: rotate(90deg);0 
 }
 
 .div-container {
     display: flex;
     flex-direction: row;
+    width: 100%;
+    height:fit-content;
 }
 
 .font-weight-400 {
