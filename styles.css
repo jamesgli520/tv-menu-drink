@@ -1,9 +1,9 @@
 
 body {
     font-family: 'Inconsolata', monospace;
-    font-size: 10px;
+    font-size: 15px;
     transform: rotate(90deg);
-    margin-left: 450px;
+    margin-left: 400px;
     margin-top: 0;
     margin-right: 0;
     margin-bottom: 0;
@@ -29,7 +29,7 @@ body {
 h1 {
     border-bottom: 3px black solid;
     margin-left: 37px;
-    width: 100%;
+    width: 93%;
 }
 
 h4 {
@@ -58,16 +58,12 @@ li {
 
 .end-char {
     position:absolute;
-    right: 11%;
+    right: 0%;
 }
 
 .end-char2 {
     position:absolute;
-    right: 11%;
-}
-
-.brownsugar-div-container {
-    display: flex;
+    right: 0%;
 }
 
 .img-div{
