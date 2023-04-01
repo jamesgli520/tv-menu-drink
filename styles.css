@@ -41,7 +41,7 @@ body {
 }
 
 h1 {
-    border-bottom: 3px black solid;
+    border-bottom: 2px black solid;
     margin-left: 37px;
     width: 93%;
 }
@@ -51,7 +51,7 @@ h4 {
 }
 
 h3 {
-    border-bottom: 3px black dashed;
+    border-bottom: 1px black dashed;
     font-weight: 500;
     width: 100%;
 }
@@ -82,4 +82,38 @@ li {
 
 .img-div{
     margin-left: -10px;
+}
+
+.brownsugar-div {
+    display: flex;
+}
+
+.img-div {
+    margin-left: 50px;
+}
+
+.topping-div{
+    border: 1px black solid;
+    width: 250px;
+    height: 110px;
+    margin-left: 50px;
+}
+
+h4 {
+    margin-top: -10px;
+    background-color: white;
+    width: fit-content;
+}
+
+.topping-ul{
+    font-size: 10px;
+    margin-left: -30px;
+}
+
+.tab {
+    padding-left: 15px;
+}
+
+.sub {
+    font-size: 9px;
 }
