@@ -9,6 +9,7 @@ body {
     margin-bottom: 0;
     width: 50%;
     height:100%;
+    background-color: red;
 
 }
 
@@ -95,12 +96,13 @@ li {
     border: 1px black solid;
     width: 250px;
     height: 110px;
-    margin-left: 50px;
+    margin-left: 250px;
+    margin-top: 100px;
 }
 
 h4 {
     margin-top: -10px;
-    background-color: white;
+    background-color: red;
     width: fit-content;
 }
 
