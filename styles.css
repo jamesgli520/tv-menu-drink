@@ -4,7 +4,7 @@ body {
     font-size: 15px;
     /* color: white; */
     transform: rotate(90deg);
-    margin-left: 475px;
+    margin-left: 465px;
     margin-top: -40px;
     margin-right: 0;
     margin-bottom: 0;
@@ -30,28 +30,28 @@ body {
     border-bottom: 2px black solid;
     font-weight: 400;
     margin-left: 37px;
-    width: 85%;
+    width: 98%;
 }
 
 .h1-fruittea {
     border-bottom: 2px black solid;
     font-weight: 400;
     margin-left: 37px;
-    width: 105%;
+    width: 109%;
 }
 
 .h1-smoothies {
     border-bottom: 2px black solid;
     font-weight: 400;
     margin-left: 37px;
-    width: 137%;
+    width: 143%;
 }
 
 .h1-hottea {
     border-bottom: 2px black solid;
     font-weight: 400;
     margin-left: 90px;
-    width: 78%;
+    width: 85%;
 }
 
 .ul-hottea{
@@ -60,13 +60,13 @@ body {
 
 .price-spacing {
     position:absolute;
-    right: 50%;
+    right: 48%;
 }
 
 
 .brownsugar{
     
-    width: 112%;
+    width: 120%;
 }
 
 h1{
@@ -102,7 +102,7 @@ li {
 
 .end-char {
     position:absolute;
-    right: 0%;
+    right: -5%;
 }
 
 
@@ -147,7 +147,7 @@ h4 {
 
 .HOTTEA-PRICE-SPACING {
     position:absolute;
-    right: -1%;
+    right: -5%;
 }
 
 .sub {
